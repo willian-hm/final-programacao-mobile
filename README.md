@@ -64,10 +64,6 @@ Permitir que o usuário simule o parcelamento de uma compra com ou sem juros, en
 * O usuário informa sua renda mensal.
 * O app alerta se a parcela exceder **30% da renda líquida**.
 
-### ☁️ Integração com API (extra hard)
-
-* Buscar taxa média de juros atual no Brasil (ex: Banco Central via API).
-
 ---
 
 ## 🧪 Exemplos de Casos de Uso
