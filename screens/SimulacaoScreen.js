@@ -7,7 +7,7 @@ export default function SimulacaoScreen({ navigation }) {
   const [taxa, setTaxa] = useState('');
   const [comJuros, setComJuros] = useState(false);
 
-  const validarECalcular = () => {
+  const validarECalcular = () => {  
     const v = parseFloat(valor.replace(',', '.'));
     const p = parseInt(parcelas);
     const t = parseFloat(taxa.replace(',', '.'));
